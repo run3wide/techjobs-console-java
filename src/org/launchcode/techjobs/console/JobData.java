@@ -17,7 +17,7 @@ import java.util.Map;
  */
 public class JobData {
 
-    private static final String DATA_FILE = "resources/job_data.csv";
+    private static final String DATA_FILE = "/home/paul/Projects/lc101/Tech Jobs/techjobs-console-java/resources/job_data.csv";
     private static Boolean isDataLoaded = false;
 
     private static ArrayList<HashMap<String, String>> allJobs;
